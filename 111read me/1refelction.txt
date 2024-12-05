@@ -1,0 +1,21 @@
+Di Xiao_Midterm Game Design
+
+The concept behind this work is to artistically reveal the real harm that mental issues can bring to individuals; it is a piece with a strong educational intent. As someone who has experienced (or is still experiencing) various mental health challenges, I’m often asked by people around me who are mentally healthy, “Do you think I have a mental illness?”
+
+From a scientific perspective, even mild depression or anxiety counts as a mental health issue. Out of responsibility and a mindset toward prevention, I sometimes respond, “Maybe.” Mental health issues seem to have become a kind of trendy label—I've even encountered people who exaggerate or fabricate symptoms just to align with it.
+
+But when these people truly witness an acute episode—whether my own or someone else's—they often react with shock: “Is that what mental illness is really like? That’s so deranged, terrifying, disgusting. I am not mentally ill! How could you assume I was?”
+
+Yet this is what mental illness has always been. When you experience moderate to severe mental issues, it’s not just about melancholic days or heartache. You’ll face symptoms like stage 2 hypertension, vomiting, a feeling of imminent death, dizziness, asthma, and uncontrollable urges to self-harm or even suicidal impulses. Mental illness is a real illness—it’s painful, it’s negative, and it’s something patients would give anything to shed for life.
+
+The primary concept woven into this work is **“Do What I've Done”**. If you believe you have mental health issues, then come experience everything I’ve been through. Do you think uncontrollable outbursts are trendy? Do you find unstoppable self-harm (a “fun fact”: during a panic attack, it’s nearly impossible to regain composure without self-harm) is something cool? Do you see the ceaseless thoughts that cloud the mind as unique?
+
+You wouldn’t—because you don’t have a mental illness. You are healthy and whole, the way mental health patients long to be.
+
+Live well.
+
+
+
+In this piece, I incorporated many metaphors. For example, the Minesweeper game embedded within a calendar, the clown emerging from eye sockets (representing how mental illness affects vision and perception), and the phrase "you are safe here"—which is actually one of the most common phrases used to comfort someone experiencing an acute mental health episode. Hearing it means you've just been through an episode. Are you really "safe"? There's also a small Easter egg at the end of the game, though I won’t spoil it here.
+
+In short, I utilized nearly everything I’ve learned this semester for this piece, and I'm proud of what I’ve created. I feel that I’ve met my own standards in programming, logic, and design. What I’m most proud of is that, since it’s entirely my work, I can explain the meaning and thought process behind each line of code and each color choice. I really enjoyed this project, and I plan to create more like it in the future.
